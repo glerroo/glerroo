@@ -1,12 +1,15 @@
 ### Hi there 👋
 
-## I creating, in my spare time, stuffs for GNOME and GNU/Linux.
+#### I creating, in my spare time, stuffs for GNOME and GNU/Linux.
 
 - 🔭 Visit my project on [Gitlab Gnome](https://gitlab.gnome.org/users/glerro/projects).
-- :credit_card: If you like my work and want to support it, consider donating. 🙂️ Thanks!
+- 💳 If you like my work and want to support it, consider [donating](https://ko-fi.com/glerro). 🙂️ Thanks!
 
 <!--
 **glerroo/glerroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I'm a linux enthusiast who loves to modify systems
+
 
 Here are some ideas to get you started:
 
